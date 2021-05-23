@@ -1,0 +1,3 @@
+{"flag": "flag{30237463-8223-4796-8e1f-c24aafbb58f4}", "port": 10000, "filename": "easysender"}
+{"flag": "flag{160c4769-04cf-4c2a-b59e-ff43905a8028}", "port": 10001, "filename": "strlenvsread"}
+{"flag": "flag{4dff74fa-14db-4147-9fd7-9f5efa028c63}", "port": 10002, "filename": "whiterabbit"}
